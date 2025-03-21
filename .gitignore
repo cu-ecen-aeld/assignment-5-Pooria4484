@@ -2,3 +2,9 @@
 build/
 .vscode/
 *.log
+externals/
+bin/
+actions-runner-linux-x64-2.322.0.tar.gz
+_work/
+_diag/blocks/
+.runner
