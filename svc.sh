@@ -1,8 +1,8 @@
 #!/bin/bash
 
-SVC_NAME="actions.runner.cu-ecen-aeld-assignment-1-Pooria4484.Pooria-PC.service"
+SVC_NAME="actions.runner.cu-ecen-aeld-assignment-4-Pooria4484.Pooria-PC.service"
 SVC_NAME=${SVC_NAME// /_}
-SVC_DESCRIPTION="GitHub Actions Runner (cu-ecen-aeld-assignment-1-Pooria4484.Pooria-PC)"
+SVC_DESCRIPTION="GitHub Actions Runner (cu-ecen-aeld-assignment-4-Pooria4484.Pooria-PC)"
 
 SVC_CMD=$1
 arg_2=${2}
